@@ -10,3 +10,4 @@
 )
     - [串口实验](https://github.com/littleBLACKsir/stm32__my_understand/blob/master/%E4%B8%B2%E5%8F%A3%E5%AE%9E%E9%AA%8C.md
 )
+    - [串口实验相关理解](https://github.com/littleBLACKsir/stm32__my_understand/blob/master/%E4%B8%B2%E5%8F%A3%E5%AE%9E%E9%AA%8C%E7%9B%B8%E5%85%B3%E7%90%86%E8%A7%A3.md)
